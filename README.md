@@ -1,5 +1,6 @@
 # f1分数解析
 demo 地址: https://share.streamlit.io/jiaqiangbandongg/f1-reverse/main/app.py
+
 能源大数据子赛道——虚拟货币“挖矿”行为识别 专用
 
 比赛地址: https://www.dcic-china.com/competitions/10025/
